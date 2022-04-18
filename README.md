@@ -1,5 +1,6 @@
 # Amalitech Collaborative HTML ad CSS web design challenge - Huddle landing page with curved sections
 
+
 [Specification for the intended design can be forund in the link provided for the Huddle landing page with curved sections](./Resources/design/desktop-preview.jpg)
 
 ## Project Instruction
