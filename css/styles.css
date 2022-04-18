@@ -98,18 +98,18 @@ body {
 .btn {
   text-decoration: none;
   display: inline-block;
-  border: 2px solid #c761a2; 
+  border: 1px solid #ff52bf; 
   padding: .3rem 1.6rem;
   font-size: 1.1rem;
-  position: absolute;
-  -webkit-transition: all 0.8s;
+  position: relative;
+  -webkit-transition: all 0.3s;
   transition: all 0.3s;
   cursor: pointer; }
   .btn--white {
     background-color: #fff;
-    color: #c761a2; }
+    color: #ff52bf; }
   .btn--full {
-    background-color: #c761a2;
+    background-color: #ff52bf;
     color: #fff; }
   .btn--round {
     -webkit-border-radius: 50rem;
@@ -126,7 +126,7 @@ body {
     font-family: inherit;
     position: absolute;
     display: inline-block;
-    background-color: #c761a2;
+    background-color: #ff52bf;
     -webkit-border-radius: inherit;
     border-radius: inherit;
     top: 0;
@@ -151,7 +151,7 @@ body {
     transform: translateY(-1px);
     -moz-box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
     -webkit-box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
-    box-shadow: 3px 2px 5px rgba(0, 0, 0, 0.2); }
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); }
 
 .social-link {
   list-style: none; }
